@@ -1,0 +1,5 @@
+print("this is a test file")
+print("the function is declared like this")
+print(" print 'print a function'")
+print(print('what to print'))
+print('this is me utsav dulal')
